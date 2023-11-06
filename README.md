@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=YukiYamashina)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hi there 👋
 
 <!--
